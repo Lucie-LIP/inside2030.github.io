@@ -13,7 +13,7 @@ redirect_from:
 Knee replacement surgery is common, yet many patients still experience persistent pain or limited movement afterward due to implant wear, instability, or tissue issues. Current follow-up methods often catch these problems too late.
 The INSIDE project solves this by creating a personalized "digital twin"—a virtual model of the patient's knee implant and surrounding body. By combining data from daily wearables, lab tests, and computer simulations, doctors can predict complications early and tailor treatments to improve recovery and quality of life.
 
-The INSIDE project (grant number ANR-25-PESN-0007) is funded under the PEPR Digital Health program (https://www.inria.fr/fr/pepr-sante-numerique-projets). Coordinated by University Lyon 1, the consortium brings together seven partner teams: LBMC, HCL, LYOS, LaMCoS, CETIM, TIMC, and Platon.
+The INSIDE project (grant number ANR-25-PESN-0007) is funded under the [PEPR Digital Health program](https://www.inria.fr/fr/pepr-sante-numerique-projets). Coordinated by University Lyon 1, the consortium brings together seven partner teams: LBMC, HCL, LYOS, LaMCoS, CETIM, TIMC, and Platon.
 
 # General Presentation
 
